@@ -16,8 +16,3 @@ vai inferir o tipo da variável a parti do valor que está sendo inferido a ela"
 #Booleana ou Lógica 
 True
 False
-print(type(True))
-
-
-carro = 1
-print(carro)
